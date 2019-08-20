@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BeeYourselfv0.1
 //
-//  Created by Ozay Demirezen on 19/08/2019.
+
 //  Copyright © 2019 Emad Heydari. All rights reserved.
 //
 
